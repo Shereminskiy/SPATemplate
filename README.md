@@ -1,4 +1,7 @@
 This is template/skeleton for Single Page Application with php backend.
+For front end need to use frontend folder.
+
+./receipt contains configuration scripts like "nginx" and provision.sh.
 
 useful links:
  * https://gist.github.com/rrosiek/8190550
