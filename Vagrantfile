@@ -34,14 +34,6 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   config.ssh.shell = "bash -c 'BASH_ENV=/etc/profile exec bash'"
 
   # install some base packages
-  config.vm.provision :shell, :path => "provision.sh"
+  config.vm.provision :shell, :path => "./receipt/provision.sh"
 
-
-
-#  config.ssh.insert_key = false
-#  config.vm.provision "ansible" do |ansible|
-#      ansible.verbose = "v"
-#      ansible.playbook = "playbook.yml"
-#    end
-#  end
 end
