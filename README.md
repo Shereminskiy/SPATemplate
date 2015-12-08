@@ -7,4 +7,4 @@ https://vesselinv.com/lemp-with-vagrant/
 http://www.dev-metal.com/super-simple-vagrant-lamp-stack-bootstrap-installable-one-command/
 
 
-backend folder for server app with link /api/
+backend folder is for server app which works by link /api/
