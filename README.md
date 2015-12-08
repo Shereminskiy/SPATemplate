@@ -1,6 +1,6 @@
-This is template/sceleton for Singl Page Application with php backend.
+This is template/skeleton for Single Page Application with php backend.
 
-usefull links:
+useful links:
  * https://gist.github.com/rrosiek/8190550
  * http://docs.vagrantup.com/v2/vagrantfile/ssh_settings.html
  * https://vesselinv.com/lemp-with-vagrant/
